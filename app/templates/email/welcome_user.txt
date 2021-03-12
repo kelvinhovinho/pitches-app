@@ -1,0 +1,3 @@
+Hello {{user.username}}
+Welcome to Pitches
+We have just seen you have signed up for our application and want to welcome you to the family. Please enjoy reading the pitches. Dont forget to post yours and rate other peoples pitches
